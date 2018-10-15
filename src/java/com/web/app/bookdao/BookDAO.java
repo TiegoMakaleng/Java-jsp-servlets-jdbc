@@ -71,7 +71,11 @@ public class BookDAO {
 		
         return book;		
 	}
-
+	
+    /**
+	* @param isbn the isbn of the book we are looking for.
+	* @return list the list of books we are looking for
+	*/
     public List<Book> getBook(String isbn) throws SQLException {
         List<Book> list = new ArrayList<Book>();
         Book book = null;
