@@ -6,7 +6,7 @@ Technologies used to get the project done:
 -----------------------------------------
 *Model View Container (MVC) design pattern
 *Java
-*JavaServer Pages (JSP), 
+*JavaServer Pages (JSP)
 *Servlets
 *JDBC
 *Apache Tomcat
