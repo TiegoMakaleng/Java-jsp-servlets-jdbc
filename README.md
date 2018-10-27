@@ -4,7 +4,8 @@
 
 Technologies used to get the project done:
 -----------------------------------------
-* Model View Container (MVC) design pattern
+* Netbeans IDE
+* Model View Controller (MVC) design pattern
 * Java
 * JavaServer Pages (JSP)
 * Servlets
