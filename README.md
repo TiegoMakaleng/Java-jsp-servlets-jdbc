@@ -10,4 +10,5 @@ Technologies used to get the project done
 * JavaServer Pages (JSP)
 * Servlets
 * JDBC
+* MySQL Database
 * Apache Tomcat
