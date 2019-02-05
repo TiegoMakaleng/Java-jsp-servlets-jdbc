@@ -2,7 +2,7 @@
 
 ## Project Details
 
-Technologies used to get the project done:
+Technologies used to get the project done
 -----------------------------------------
 * Netbeans IDE
 * Model View Controller (MVC) design pattern
